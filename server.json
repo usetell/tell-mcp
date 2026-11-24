@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.usetell/tell",
+  "title": "Tell",
+  "description": "Agentic outreach: find people, verify work emails, write openers, send sequences from your inbox",
+  "version": "1.0.0",
+  "websiteUrl": "https://usetell.dev",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://usetell.dev/mcp"
+    }
+  ]
+}
